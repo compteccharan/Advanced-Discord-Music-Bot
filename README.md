@@ -5,7 +5,7 @@ Advanced Discord Music Bot ;)
 
 Support me and my bots by checking [My Bots Below](https://github.com/compteccharan/Advanced-Discord-Music-Bot/#-my-bots)
 
-## 📝 Installation
+<h2 align="left"><img src="./assets/316264057659326464.png" width="30px"> Installation </h2>
 Fork This repo and run it
 
 Added `Install.bat` and `Start.bat` So You can just run these to start project.
