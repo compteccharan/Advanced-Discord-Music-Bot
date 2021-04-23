@@ -20,10 +20,10 @@ Change Your TOKEN and PREFIX in `.env`
 
 <h2 align="center"><img src="./assets/821437673448800256.png" width="30px"> Support Friend </h2>
 
-<h3 align="center">[Discord](https://discord.gg/tsWa6CEupW)</h3>
+                                                     [Discord](https://discord.gg/tsWa6CEupW)
 
-<h3 align="center">[Bot](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)</h3>
-
+                                                     [Bot](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)
+  
 ## Support :speaking_head: 
 Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. dm to Charan#8318
 
