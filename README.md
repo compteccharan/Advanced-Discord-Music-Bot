@@ -1,13 +1,25 @@
 <h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
 
+## 📝 Info
+Advanced Discord Music Bot ;)
+
+Support me and my bots by checking [My Bots Below](https://github.com/compteccharan/Advanced-Discord-Music-Bot/#-my-bots)
+
+## 📝 Installation
+Fork This repo and run it
+
+Added `Install.bat` and `Start.bat` So You can just run these to start project.
+
+Change Your TOKEN and PREFIX in `.env`
+
 ## 📝 [My Bots](https://top.gg/bot/816987224662999040)
 [Aquire](https://top.gg/bot/816987224662999040)
 
 [Dj Bot](https://discord.com/oauth2/authorize?client_id=818410071653351474&scope=bot)
 
 
-## 📝 [Support Server](https://discord.gg/tsWa6CEupW)
-Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. https://discord.gg/tsWa6CEupW
+## 📝 [Support Friend](https://discord.gg/tsWa6CEupW)
+Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. dm to Charan#8318
 
 
 ## 💨 Run the projects
