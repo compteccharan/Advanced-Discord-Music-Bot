@@ -16,10 +16,11 @@ Change Your TOKEN and PREFIX in `.env`
 [Aquire](https://top.gg/bot/816987224662999040)
 
 [Dj Bot](https://discord.com/oauth2/authorize?client_id=818410071653351474&scope=bot)
+ 
 
-
-## img src="./assets/821437673448800256.png" width="30px"> Support Friend
-https://discord.gg/tsWa6CEupW
+<h2 align="center"><img src="./assets/821437673448800256.png" width="30px"> Support Friend </h1>
+[Discord](https://discord.gg/tsWa6CEupW)
+[Bot](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)
 
 ## Support :speaking_head: 
 Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. dm to Charan#8318
