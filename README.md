@@ -19,6 +19,8 @@ Change Your TOKEN and PREFIX in `.env`
 
 
 ## 📝 [Support Friend](https://discord.gg/tsWa6CEupW)
+
+## Support :speaking_head: 
 Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. dm to Charan#8318
 
 ## Friends :gift_heart:
