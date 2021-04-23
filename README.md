@@ -12,7 +12,7 @@ Added `Install.bat` and `Start.bat` So You can just run these to start project.
 
 Change Your TOKEN and PREFIX in `.env`
 
-## 📝 [My Bots](https://top.gg/bot/816987224662999040)
+## :robot: [My Bots](https://top.gg/bot/816987224662999040)
 [Aquire](https://top.gg/bot/816987224662999040)
 
 [Dj Bot](https://discord.com/oauth2/authorize?client_id=818410071653351474&scope=bot)
