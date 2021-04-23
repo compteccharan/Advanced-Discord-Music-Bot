@@ -18,7 +18,7 @@ Change Your TOKEN and PREFIX in `.env`
 [Dj Bot](https://discord.com/oauth2/authorize?client_id=818410071653351474&scope=bot)
  
 
-<h2 align="center"><img src="./assets/821437673448800256.png" width="30px"> Support Friend </h2>
+<h2 align="left"><img src="./assets/821437673448800256.png" width="30px"> Support Friend </h2>
 
 [Discord](https://discord.gg/tsWa6CEupW)
 
