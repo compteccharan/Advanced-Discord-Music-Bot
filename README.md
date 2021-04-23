@@ -21,6 +21,11 @@ Change Your TOKEN and PREFIX in `.env`
 ## 📝 [Support Friend](https://discord.gg/tsWa6CEupW)
 Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. dm to Charan#8318
 
+## Friends :gift_heart:
+</ Cw khan >#1564
+
+・SOULCOSMIC乛#4064
+
 
 ## 💨 Run the projects
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/compteccharan/Advanced-Discord-Music-Bot)
