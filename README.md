@@ -25,7 +25,7 @@ Change Your TOKEN and PREFIX in `.env`
 [Bot](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)
   
 ## Support :speaking_head: 
-Got any error or any problem with the code? Dm to Charan#8318 and ask your question instead of creating issues unless its a code bug. dm to Charan#8318
+Got any error or any problem with the code? Dm to Charan#8318 and ask your question instead of creating issues unless its a code bug.
 
 ## Friends :gift_heart:
 </ Cw khan >#1564
